@@ -1,0 +1,31 @@
+{
+  "model": "XGBoost crop recommendation development model",
+  "version": "dev-0.1",
+  "features": [
+    "N",
+    "P",
+    "K",
+    "temperature",
+    "humidity",
+    "ph",
+    "rainfall"
+  ],
+  "classes": [
+    "banana",
+    "chickpea",
+    "coffee",
+    "cotton",
+    "jute",
+    "kidney_beans",
+    "lentil",
+    "maize",
+    "mango",
+    "pigeonpeas",
+    "rice"
+  ],
+  "test_accuracy": 0.8227272727272728,
+  "training_samples": 1760,
+  "test_samples": 440,
+  "status": "DEVELOPMENT_ONLY",
+  "warning": "Generated development data; not suitable for IEEE performance claims or real agricultural decisions."
+}

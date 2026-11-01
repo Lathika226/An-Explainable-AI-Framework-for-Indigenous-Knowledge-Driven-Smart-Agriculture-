@@ -1,0 +1,48 @@
+# Environment files & secrets
+.env
+.env.*
+!.env.example
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+*/.venv/
+
+# Testing & coverage
+.pytest_cache/
+*/.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs & databases
+*.log
+*.sqlite
+*.sqlite3
+*.db
+agri.db
+
+# Node / Frontend
+node_modules/
+*/node_modules/
+dist/
+dist-ssr/
+*.local
+
+# IDEs & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Large Model weights & binaries
+*.pt
+*.onnx
+*.bin

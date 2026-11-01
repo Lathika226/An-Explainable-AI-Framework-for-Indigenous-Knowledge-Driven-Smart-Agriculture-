@@ -1,0 +1,494 @@
+[
+  {
+    "name": "EBS All Expert",
+    "common_name": "All Expert Bio-Pesticide",
+    "category": "Bio-Pesticide / Entomopathogenic Microbial Consortium",
+    "active_ingredients": [
+      "Verticillium lecanii",
+      "Beauveria bassiana",
+      "Metarhizium anisopliae"
+    ],
+    "target_crops": [
+      "Tomato",
+      "Chilli",
+      "Brinjal (Eggplant)",
+      "Okra (Bhindi)",
+      "Cotton",
+      "Paddy (Rice)",
+      "Pulses",
+      "Citrus & Fruit Orchards",
+      "Garden & Ornamental Plants"
+    ],
+    "target_pests": [
+      "Whiteflies",
+      "Aphids",
+      "Thrips",
+      "Caterpillars",
+      "Mealybugs",
+      "Mites"
+    ],
+    "validation_status": "VERIFIED",
+    "source_name": "ICAR - National Bureau of Agricultural Insect Resources (NBAIR) / CIBRC Biocontrol Registry",
+    "source_url": "https://cibrc.gov.in/sites/default/files/Biopesticides_Guidelines.pdf",
+    "evidence": "Entomopathogenic fungi consortium provides biological management of sucking pests and foliar lepidopteran larvae through fungal cuticle penetration without toxic chemical residues.",
+    "safety_guidelines": "Safe for pollinators when applied during early morning or late evening. Do not mix with chemical fungicides. Store below 30°C away from direct sunlight.",
+    "alternatives": [
+      {
+        "name": "Neem Seed Kernel Extract (NSKE 5%) / Neem Oil 10,000 PPM",
+        "explanation": "Botanical antifeedant, repellent, and insect growth regulator (IGR). It disrupts hormonal cycles of sucking pests without killing beneficial honeybees, spiders, or ladybird beetles.",
+        "how_to_use": "Mix 50 ml of Neem Oil (or 50g NSKE) + 1 ml natural liquid soap per 10 liters of water. Spray thoroughly on both upper and lower leaf surfaces.",
+        "source_url": "https://ppqs.gov.in"
+      },
+      {
+        "name": "Yellow and Blue Sticky Traps (IPM Mechanical Control)",
+        "explanation": "Chemical-free monitoring and mass trapping tool. Yellow attracts whiteflies, aphids, and leafminers; blue attracts thrips.",
+        "how_to_use": "Install 15-20 traps per acre slightly above the plant canopy level.",
+        "source_url": "https://cibrc.gov.in"
+      }
+    ]
+  },
+  {
+    "name": "All Expert",
+    "common_name": "All Expert Bio-Pesticide",
+    "category": "Bio-Pesticide / Entomopathogenic Microbial Consortium",
+    "active_ingredients": [
+      "Verticillium lecanii",
+      "Beauveria bassiana",
+      "Metarhizium anisopliae"
+    ],
+    "target_crops": [
+      "Tomato",
+      "Chilli",
+      "Brinjal (Eggplant)",
+      "Okra (Bhindi)",
+      "Cotton",
+      "Paddy",
+      "Pulses",
+      "Vegetables & Garden Plants"
+    ],
+    "target_pests": [
+      "Whiteflies",
+      "Aphids",
+      "Thrips",
+      "Caterpillars",
+      "Mealybugs",
+      "Mites"
+    ],
+    "validation_status": "VERIFIED",
+    "source_name": "ICAR - National Bureau of Agricultural Insect Resources (NBAIR) / CIBRC Biocontrol Registry",
+    "source_url": "https://cibrc.gov.in/sites/default/files/Biopesticides_Guidelines.pdf",
+    "evidence": "Triple-action bio-insecticide containing entomopathogenic fungal spores that effectively parasitize multiple insect orders with zero residue.",
+    "safety_guidelines": "Store in a cool dry place away from direct sunlight. Do not mix with chemical fungicides.",
+    "alternatives": [
+      {
+        "name": "Neem Seed Kernel Extract (NSKE 5%)",
+        "explanation": "Traditional proven botanical preparation that acts as a strong feeding deterrent and inhibits egg laying of sucking insects and caterpillars.",
+        "how_to_use": "Pound 500g neem seeds, soak overnight in 10L water, filter through muslin cloth, and spray during evening hours.",
+        "source_url": "https://ppqs.gov.in"
+      },
+      {
+        "name": "Dashaparni Kashayam (Fermented 10-Leaf Botanical Spray)",
+        "explanation": "Indigenous natural farming preparation made from neem, custard apple, papaya, and karanj leaves with pungent insecticidal and repellent action.",
+        "how_to_use": "Dilute 200 ml of fermented extract in 10 liters of water and spray at 10-day intervals.",
+        "source_url": "https://cibrc.gov.in"
+      }
+    ]
+  },
+  {
+    "name": "Neem Oil / Azadirachtin",
+    "common_name": "Neem Seed Oil 0.03% to 1% EC",
+    "category": "Botanical Insecticide & Acaricide",
+    "active_ingredients": [
+      "Azadirachtin",
+      "Nimbin",
+      "Salannin"
+    ],
+    "target_crops": [
+      "Paddy (Rice)",
+      "Cotton",
+      "Tomato",
+      "Chilli",
+      "Brinjal",
+      "Pulses",
+      "Mango",
+      "Tea",
+      "Cabbage & Cauliflower"
+    ],
+    "target_pests": [
+      "Aphids",
+      "Whiteflies",
+      "Leafhoppers",
+      "Bollworms",
+      "Stem borers",
+      "Thrips"
+    ],
+    "validation_status": "VERIFIED",
+    "source_name": "Central Insecticides Board & Registration Committee (CIBRC)",
+    "source_url": "https://cibrc.gov.in/list-of-registered-pesticides",
+    "evidence": "Standard botanical insecticide widely certified for organic farming. Acts as an oviposition deterrent, antifeedant, and growth disruptor.",
+    "safety_guidelines": "Low toxicity to mammals and honeybees when dry; avoid spraying directly over open water bodies.",
+    "alternatives": [
+      {
+        "name": "Garlic-Chilli-Ginger Extract (Agniastra)",
+        "explanation": "Traditional fermented botanical extract that creates an intense pungent deterrent for hard-to-kill chewing caterpillars.",
+        "how_to_use": "Boil 500g crushed garlic, 500g green chillies, and 250g ginger in 10L cow urine. Dilute 250ml per 10L water for spraying.",
+        "source_url": "https://cibrc.gov.in"
+      }
+    ]
+  },
+  {
+    "name": "Chlorpyrifos 20% EC",
+    "common_name": "Chlorpyrifos",
+    "category": "Organophosphate Insecticide (High Chemical Toxicity)",
+    "active_ingredients": [
+      "Chlorpyrifos"
+    ],
+    "target_crops": [
+      "Paddy (Rice)",
+      "Cotton",
+      "Sugarcane",
+      "Groundnut",
+      "Vegetables"
+    ],
+    "target_pests": [
+      "Termites",
+      "Stem borer",
+      "Root grubs",
+      "Leaf folder",
+      "Cutworms"
+    ],
+    "validation_status": "VERIFIED",
+    "source_name": "Central Insecticides Board & Registration Committee (CIBRC)",
+    "source_url": "https://cibrc.gov.in/major-uses-of-pesticides",
+    "evidence": "Broad-spectrum contact, stomach, and respiratory insecticide used under restricted approved label guidelines.",
+    "safety_guidelines": "HIGH TOXICITY. Dangerous to aquatic life and honeybees. Restricted in many countries. Full personal protective equipment (PPE) mandatory.",
+    "alternatives": [
+      {
+        "name": "Metarhizium anisopliae 1% WP (Green Muscardine Fungus)",
+        "explanation": "Natural microbial bio-agent that specifically infects subterranean root grubs, termites, and cutworms. Zero toxic residue in soil and groundwater.",
+        "how_to_use": "Mix 2 kg of Metarhizium powder with 100 kg of moist farmyard manure (FYM), incubate for 7 days in shade, and incorporate into soil at sowing or earthing up.",
+        "source_url": "https://cibrc.gov.in"
+      },
+      {
+        "name": "Castor Cake / Neem Cake Soil Treatment",
+        "explanation": "Natural organic oil cakes contain ricin and nimbin which repel subterranean termites and nematodes while enriching soil nitrogen.",
+        "how_to_use": "Broadcast 150-200 kg per acre into soil during land preparation.",
+        "source_url": "https://ppqs.gov.in"
+      }
+    ]
+  },
+  {
+    "name": "Imidacloprid 17.8% SL",
+    "common_name": "Imidacloprid",
+    "category": "Neonicotinoid Systemic Insecticide (Pollinator Hazard)",
+    "active_ingredients": [
+      "Imidacloprid"
+    ],
+    "target_crops": [
+      "Cotton",
+      "Paddy (Rice)",
+      "Chilli",
+      "Tomato",
+      "Sugarcane",
+      "Mango",
+      "Sunflower"
+    ],
+    "target_pests": [
+      "Brown Plant Hopper (BPH)",
+      "Whiteflies",
+      "Aphids",
+      "Jassids",
+      "Thrips"
+    ],
+    "validation_status": "VERIFIED",
+    "source_name": "Central Insecticides Board & Registration Committee (CIBRC)",
+    "source_url": "https://cibrc.gov.in/major-uses-of-pesticides",
+    "evidence": "Systemic insecticide acting as an agonist on nicotinic acetylcholine receptors of insect nervous system.",
+    "safety_guidelines": "EXTREMELY TOXIC TO HONEYBEES AND POLLINATORS. Never spray during crop flowering period. Can cause pest resurgence if overused.",
+    "alternatives": [
+      {
+        "name": "Verticillium lecanii 1.15% WP (Bio-Insecticide)",
+        "explanation": "Specialized bio-fungus that produces toxins which paralyze aphids, whiteflies, and mealybugs from inside. 100% safe for pollinators and honeybees.",
+        "how_to_use": "Mix 50g per 10 liters of water during high-humidity periods (above 70% RH), preferably in the late afternoon.",
+        "source_url": "https://cibrc.gov.in"
+      },
+      {
+        "name": "Yellow Sticky Traps + 10,000 PPM Neem Oil Spray",
+        "explanation": "Double-action IPM: traps physically catch adult flying whiteflies, while neem prevents nymphs from molting into adults.",
+        "how_to_use": "Place 15 yellow traps per acre; spray neem oil at 3-5 ml/L every 7-10 days.",
+        "source_url": "https://ppqs.gov.in"
+      }
+    ]
+  },
+  {
+    "name": "Mancozeb 75% WP",
+    "common_name": "Mancozeb",
+    "category": "Broad-Spectrum Protective Contact Fungicide",
+    "active_ingredients": [
+      "Mancozeb"
+    ],
+    "target_crops": [
+      "Potato",
+      "Tomato",
+      "Chilli",
+      "Wheat",
+      "Groundnut",
+      "Grapes",
+      "Apple",
+      "Onion"
+    ],
+    "target_pests": [
+      "Early Blight",
+      "Late Blight",
+      "Tikka Leaf Spot",
+      "Downy Mildew",
+      "Rust",
+      "Anthracnose"
+    ],
+    "validation_status": "VERIFIED",
+    "source_name": "Central Insecticides Board & Registration Committee (CIBRC)",
+    "source_url": "https://cibrc.gov.in/list-of-registered-pesticides",
+    "evidence": "Multi-site contact dithiocarbamate fungicide widely registered for control of foliar fungal pathogens across agricultural crops.",
+    "safety_guidelines": "Wear protective mask, gloves, and protective clothing. Observe the recommended pre-harvest interval (PHI) of 7-14 days.",
+    "alternatives": [
+      {
+        "name": "Trichoderma harzianum + Pseudomonas fluorescens (Bio-Shield)",
+        "explanation": "Twin bio-control agents that colonize plant leaf and stem surfaces, competing for space and nutrients to block pathogenic fungal spores.",
+        "how_to_use": "Mix 50g of each bio-agent in 10L water with 10g jaggery. Spray preventatively before disease onset.",
+        "source_url": "https://ppqs.gov.in"
+      },
+      {
+        "name": "Bordeaux Mixture 1% (Copper Sulfate + Quicklime)",
+        "explanation": "Time-tested mineral preventative fungicide permitted in organic cultivation that prevents blight and mildew spore germination.",
+        "how_to_use": "Dissolve 100g Copper Sulfate and 100g Quicklime separately in water, mix to 10L, and spray immediately.",
+        "source_url": "https://cibrc.gov.in"
+      }
+    ]
+  },
+  {
+    "name": "Trichoderma viride",
+    "common_name": "Trichoderma viride 1% WP",
+    "category": "Bio-Fungicide / Antagonistic Biological Agent",
+    "active_ingredients": [
+      "Trichoderma viride (1x10^8 CFU/g)"
+    ],
+    "target_crops": [
+      "Paddy (Rice)",
+      "Wheat",
+      "Tomato",
+      "Potato",
+      "Chilli",
+      "Groundnut",
+      "Cotton",
+      "Pulses",
+      "Ginger",
+      "Turmeric"
+    ],
+    "target_pests": [
+      "Root Rot",
+      "Collar Rot",
+      "Damping-off",
+      "Wilt (Fusarium spp.)",
+      "Rhizoctonia Stem Rot"
+    ],
+    "validation_status": "VERIFIED",
+    "source_name": "Directorate of Plant Protection, Quarantine & Storage (PPQS)",
+    "source_url": "https://ppqs.gov.in/divisions/integrated-pest-management",
+    "evidence": "Antagonistic beneficial fungus for seed and soil treatment that outcompetes pathogenic soil fungi and induces systemic resistance in crops.",
+    "safety_guidelines": "Apply with well-decomposed organic manure; avoid concurrent use of systemic chemical fungicides.",
+    "alternatives": [
+      {
+        "name": "Pseudomonas fluorescens 1% WP (PGPR)",
+        "explanation": "Plant-growth-promoting rhizobacteria providing dual benefits of root disease suppression (antibiosis) and enhanced nutrient solubilization.",
+        "how_to_use": "Use 10g per kg of seeds for seed dressing, or 2.5 kg/ha mixed in compost for soil enrichment.",
+        "source_url": "https://ppqs.gov.in"
+      }
+    ]
+  },
+  {
+    "name": "Copper Oxychloride 50% WP",
+    "common_name": "Copper Oxychloride (Blitox)",
+    "category": "Inorganic Protective Fungicide & Bactericide",
+    "active_ingredients": [
+      "Copper Oxychloride"
+    ],
+    "target_crops": [
+      "Citrus (Lemon, Orange)",
+      "Tomato",
+      "Chilli",
+      "Cardamom",
+      "Coffee",
+      "Tea",
+      "Pomegranate",
+      "Paddy"
+    ],
+    "target_pests": [
+      "Citrus Canker",
+      "Bacterial Leaf Blight",
+      "Fruit Rot (Dieback)",
+      "Anthracnose",
+      "Late Blight"
+    ],
+    "validation_status": "VERIFIED",
+    "source_name": "Central Insecticides Board & Registration Committee (CIBRC)",
+    "source_url": "https://cibrc.gov.in/list-of-registered-pesticides",
+    "evidence": "Broad-spectrum inorganic protectant fungicide and bactericide preventing germination of fungal and bacterial spores.",
+    "safety_guidelines": "Prevent excessive application on young foliage to avoid copper phytotoxicity; do not mix with acidic compounds.",
+    "alternatives": [
+      {
+        "name": "Fermented Sour Buttermilk Spray (Khatti Lassi)",
+        "explanation": "Indigenous lactic acid bacteria and natural organic acids inhibit bacterial canker and mildew pathogens cleanly and at zero cost.",
+        "how_to_use": "Ferment 1 liter of fresh buttermilk with a small copper wire for 5-7 days until sour. Dilute with 10 liters of water and spray.",
+        "source_url": "https://cibrc.gov.in"
+      }
+    ]
+  },
+  {
+    "name": "Carbendazim 50% WP",
+    "common_name": "Carbendazim (Bavistin)",
+    "category": "Systemic Benzimidazole Fungicide",
+    "active_ingredients": [
+      "Carbendazim"
+    ],
+    "target_crops": [
+      "Paddy (Rice)",
+      "Wheat",
+      "Cotton",
+      "Groundnut",
+      "Apple",
+      "Mango",
+      "Vegetables"
+    ],
+    "target_pests": [
+      "Blast",
+      "Sheath Blight",
+      "Loose Smut",
+      "Tikka Disease",
+      "Powdery Mildew"
+    ],
+    "validation_status": "VERIFIED",
+    "source_name": "Central Insecticides Board & Registration Committee (CIBRC)",
+    "source_url": "https://cibrc.gov.in/list-of-registered-pesticides",
+    "evidence": "Systemic fungicide interfering with fungal spindle formation during cell division. Known for high chemical persistence.",
+    "safety_guidelines": "Classified as toxic to endocrine and reproductive systems. Avoid water runoff into fish ponds.",
+    "alternatives": [
+      {
+        "name": "Trichoderma viride + Seed Soaking in Beejamrutha",
+        "explanation": "Natural cow-urine and lime concoction with antagonistic bio-fungus for seed coating; prevents blast and smut without toxic fungicides.",
+        "how_to_use": "Treat 1 kg of seed with 10g Trichoderma powder before sowing.",
+        "source_url": "https://ppqs.gov.in"
+      }
+    ]
+  },
+  {
+    "name": "Glyphosate 41% SL",
+    "common_name": "Glyphosate (Roundup)",
+    "category": "Non-Selective Systemic Herbicide",
+    "active_ingredients": [
+      "Glyphosate (IPA salt)"
+    ],
+    "target_crops": [
+      "Tea Plantations",
+      "Non-Crop Field Borders",
+      "Orchards (Directed Spray)",
+      "Fallow Land"
+    ],
+    "target_pests": [
+      "Broadleaf Weeds",
+      "Grasses",
+      "Cyperus rotundus (Nutgrass)",
+      "Cynodon dactylon (Bermuda grass)"
+    ],
+    "validation_status": "VERIFIED",
+    "source_name": "Central Insecticides Board & Registration Committee (CIBRC)",
+    "source_url": "https://cibrc.gov.in/major-uses-of-pesticides",
+    "evidence": "Inhibits EPSP synthase in plants, preventing amino acid synthesis. Restricted to designated non-crop areas in India.",
+    "safety_guidelines": "RESTRICTED HERBICIDE. Do not spray over standing food crops. Wear protective respirator and rubber boots.",
+    "alternatives": [
+      {
+        "name": "Live Legume Cover Cropping (Cowpea / Sunnhemp)",
+        "explanation": "Dense cover crops smother weeds, prevent weed seed germination by blocking sunlight, and fix 40-60 kg of atmospheric nitrogen per acre.",
+        "how_to_use": "Broadcast 15-20 kg/acre between crop rows or during fallow periods.",
+        "source_url": "https://ppqs.gov.in"
+      },
+      {
+        "name": "Straw Mulching / Plastic Mulch Film",
+        "explanation": "Physical weed barrier that blocks weed emergence while conserving 30-40% soil moisture.",
+        "how_to_use": "Apply a 4-inch layer of dry paddy straw between crop rows.",
+        "source_url": "https://cibrc.gov.in"
+      }
+    ]
+  },
+  {
+    "name": "Bacillus thuringiensis (Bt)",
+    "common_name": "Bacillus thuringiensis kurstaki (Bt)",
+    "category": "Microbial Bio-Insecticide (Selective Lepidopteran Control)",
+    "active_ingredients": [
+      "Bacillus thuringiensis var. kurstaki (Dipel / Halt)"
+    ],
+    "target_crops": [
+      "Cotton",
+      "Tomato",
+      "Cabbage",
+      "Cauliflower",
+      "Pigeon Pea",
+      "Chickpea",
+      "Maize"
+    ],
+    "target_pests": [
+      "Diamondback Moth (DBM)",
+      "Helicoverpa armigera (Fruit Borer)",
+      "Spodoptera litura (Armyworm)",
+      "Pod Borers"
+    ],
+    "validation_status": "VERIFIED",
+    "source_name": "Central Insecticides Board & Registration Committee (CIBRC)",
+    "source_url": "https://cibrc.gov.in/sites/default/files/Biopesticides_Guidelines.pdf",
+    "evidence": "Microbial crystal proteins (Cry toxins) dissolve in insect alkaline gut, selectively killing caterpillar larvae while being harmless to humans, birds, and honeybees.",
+    "safety_guidelines": "Apply during evening hours because UV sunlight degrades Bt crystals rapidly.",
+    "alternatives": [
+      {
+        "name": "Helicoverpa NPV (Nuclear Polyhedrosis Virus) + Pheromone Traps",
+        "explanation": "Highly targeted viral biological control for caterpillar pests with zero chemical footprint.",
+        "how_to_use": "Spray 250 LE (Larval Equivalents)/ha mixed with 0.1% jaggery during evening hours.",
+        "source_url": "https://ppqs.gov.in"
+      }
+    ]
+  },
+  {
+    "name": "Emamectin Benzoate 5% SG",
+    "common_name": "Emamectin Benzoate (Proclaim)",
+    "category": "Avermectin Insecticide",
+    "active_ingredients": [
+      "Emamectin Benzoate"
+    ],
+    "target_crops": [
+      "Cotton",
+      "Chickpea (Gram)",
+      "Chilli",
+      "Tomato",
+      "Cabbage",
+      "Maize (Corn)"
+    ],
+    "target_pests": [
+      "Fall Armyworm (FAW)",
+      "Bollworms",
+      "Fruit Borer",
+      "Diamondback Moth",
+      "Thrips"
+    ],
+    "validation_status": "VERIFIED",
+    "source_name": "Central Insecticides Board & Registration Committee (CIBRC)",
+    "source_url": "https://cibrc.gov.in/major-uses-of-pesticides",
+    "evidence": "Semi-synthetic avermectin derived from fermentation of Streptomyces avermitilis. Interacts with GABA receptors causing caterpillar paralysis.",
+    "safety_guidelines": "Wait 3-5 days after spraying before harvesting edible fruits. Keep away from water bodies.",
+    "alternatives": [
+      {
+        "name": "Bacillus thuringiensis (Bt) + Neem Oil 10,000 PPM",
+        "explanation": "Combined biological treatment: Neem deters feeding and egg laying, while Bt eliminates existing larvae without chemical resistance.",
+        "how_to_use": "Mix 2g Bt + 3 ml Neem Oil per liter of water. Spray directly into plant whorls.",
+        "source_url": "https://ppqs.gov.in"
+      }
+    ]
+  }
+]

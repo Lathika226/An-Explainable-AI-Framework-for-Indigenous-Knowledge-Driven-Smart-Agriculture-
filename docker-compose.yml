@@ -1,0 +1,16 @@
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    container_name: agri-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: agri
+      POSTGRES_PASSWORD: agri
+      POSTGRES_DB: agri
+    ports:
+      - "5432:5432"
+    volumes:
+      - agri_pgdata:/var/lib/postgresql/data
+
+volumes:
+  agri_pgdata:
